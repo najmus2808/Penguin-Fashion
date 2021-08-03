@@ -67,3 +67,38 @@ h1 {
 }
 
 /* header section end  */
+
+/* shoes item 1 start */
+
+.nike {
+    border-radius: 10px;
+}
+
+.imgCard1 img {
+    background-color: #f1f1f1;
+    border-radius: 10px;
+    height: 327px;
+}
+
+h2 {
+    font-size: 48px;
+}
+
+h3 {
+    font-family: 24px;
+    color: #363958;
+    font-weight: 600;
+}
+
+p {
+    font-size: 16px;
+    color: #3e3e3e;
+}
+
+#price {
+    font-size: 36px;
+    font-weight: 900;
+    color: #fa804c;
+}
+
+/* shoes item 1 end */
