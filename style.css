@@ -102,3 +102,16 @@ p {
 }
 
 /* shoes item 1 end */
+
+/* about us sec start  */
+
+#about {
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+
+.single-icon-div {
+    border-radius: 10px;
+}
+
+/* about us sec end */
